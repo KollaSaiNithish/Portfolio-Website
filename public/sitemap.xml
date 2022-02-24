@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+    <loc>https://kollasainithishwebdev.netlify.app/</loc>
+    <lastmod>2022-02-23T12:03:01+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.00</priority>
+    </url>
+    <url>
+    <loc>https://kollasainithishwebdev.netlify.app/skills</loc>
+    <lastmod>2022-02-23T12:03:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://kollasainithishwebdev.netlify.app/project</loc>
+    <lastmod>2022-02-23T12:03:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://kollasainithishwebdev.netlify.app/resume</loc>
+    <lastmod>2022-02-23T12:03:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://kollasainithishwebdev.netlify.app/contact</loc>
+    <lastmod>2022-02-23T12:03:01+00:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.80</priority>
+    </url>
+</urlset>

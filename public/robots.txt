@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+sitemap: https://heuristic-nightingale-449756.netlify.app/sitemap.xml
+User-agent: *
+Disallow:
